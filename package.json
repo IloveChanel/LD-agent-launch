@@ -1,0 +1,8 @@
+{
+  "name": "ld-agent-launch",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/launch.mjs"
+  }
+}
